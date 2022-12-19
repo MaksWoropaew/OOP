@@ -37,6 +37,6 @@ public class Magician {
         this.mana -= (int)(damage * 0.8);
         if (mana < 0)return 0;
         else return damage;
-    }
-    
+    } 
+
 }
