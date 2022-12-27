@@ -1,0 +1,5 @@
+
+Running sum 5
+Complete9
+Get result: 
+result: 9
